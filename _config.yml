@@ -32,28 +32,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Mail to Self
-    description                           : Notes, URLs, ToDo's... Open app, type and tap Send, as easy as it gets.
-    fontawesome_icon_name                 : envelope
+  - title                                 : Save, Organize, Share
+    description                           : Add items with drag and drop, organize them into shelves, share with other apps or use within Anybuffer.
+    fontawesome_icon_name                 : boxes
     
-  - title                                 : Gmail Native
-    description                           : Assign labels and read status, control the email subject and signature, save presets for different use cases.
-    fontawesome_icon_name                 : mail-bulk
+  - title                                 : Multiple Windows
+    description                           : iOS 13 multiple windows environment on iPad, which ideally blends with multi-shelf system in Anybuffer.
+    fontawesome_icon_name                 : th-large
 
   - title                                 : Siri Shortcuts
-    description                           : Use Mailo actions in Shortcuts apps.
+    description                           : Robust support for iOS 13 Siri Shortcuts. Automate interactions with Anybuffer in Shortcuts app.
     fontawesome_icon_name                 : microphone
 
-  - title                                 : Today Widget
-    description                           : Send clipboard content with one tap from Today Widget.
-    fontawesome_icon_name                 : th
+  - title                                 : Document Scanner
+    description                           : Scan documents directly into Anybuffer using a built-in scanner view.
+    fontawesome_icon_name                 : file-image
 
-  - title                                 : Share Sheet
-    description                           : Send links to your inbox with one tap, works from Safari, News/RSS apps and more.
-    fontawesome_icon_name                 : share-square
+  - title                                 : Contextual Menus
+    description                           : Long press on item or shelf to access quick actions through new iOS 13 Contextual Menus.
+    fontawesome_icon_name                 : bars
 
   - title                                 : Dark Mode
-    description                           : Support for dark mode makes, mail to self in complete darkness.
+    description                           : Native Dark Mode support, follow system appearance or override the default behavior in Anybuffer Settings.
     fontawesome_icon_name                 : moon
 
 

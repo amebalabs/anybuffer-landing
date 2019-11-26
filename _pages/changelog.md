@@ -8,6 +8,10 @@ include_in_header: true
 <br>
 
 ### `Latest`
+
+# **2.1**
+`Nov 25, 2019`
+
 **New Features in Anybuffer 2.1:**
 - 🎈Contextual Menus for Filter. Long press Filter item to show contextual menu.
 - 🎈Compress. Compress one or more items. Available in Item's, Shelf's and Filter's contextual menu.

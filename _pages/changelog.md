@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+**New Features in Anybuffer 2.1:**
+- 🎈Contextual Menus for Filter. Long press Filter item to show contextual menu.
+- 🎈Compress. Compress one or more items. Available in Item's, Shelf's and Filter's contextual menu.
+- ⚙️ Nitpicky Settings:
+  - Items View Header. Set default control in the header - Sorting or Filter.
+  - Small Thumbnails. Optionally show more items on iPhone and in compact layout on iPad.
+  - Text Size. Choose font size you like for text item's thumbnail.
+  
 # **2.0**
 `Nov 6, 2019`
 

@@ -8,6 +8,9 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2.1.1**
+`Dec 29, 2019`
+- 🐛Fixed crash when select Inbox on the first launch in some cases
 
 # **2.1**
 `Nov 25, 2019`

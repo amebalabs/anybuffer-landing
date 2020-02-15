@@ -8,6 +8,30 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.1**
+`Feb 15, 2020`
+
+**New Features in Anybuffer 2020.1**:
+
+- 🎈Smart Shelves .Browse items based on configured search criteria - item shelf, type, name or date added.
+- 🎈Sketching Mode. Quickly sketch an idea and save image to Anybuffer, available in Add Menu "+"
+- 🎈Edit Text. Modify text items without leaving the app, tap edit from item contextual menu
+
+**Improvements**:
+- ⚙️ Tap on sorting control second time to switch between ascending and descending
+- ⚙️ New icons in the Settings screen
+- ⚙️ Contextual menu now smarter about available options, i.e. "Compress All" only available if shelf contains items
+- ⚙️ Share Extension better handles shares from Files app
+- ⚙️ Share Extension activates in more cases and support more apps
+- ⚙️ Anybuffer will occasionally ask for review
+- ⚙️ Improved name detection for items added with drag & drop
+
+**Bug fixes**:
+- 🐛Item borders don't update with theme switches
+- 🐛In dark theme, white line appears on the left side, when sidebar collapsed
+- 🐛 Show\Hide sidebar chevron has wrong orientation in some cases
+- 🐛 Navigation bar mismatch current theme in some cases
+
 # **2.1.1**
 `Dec 29, 2019`
 - 🐛Fixed crash when select Inbox on the first launch in some cases

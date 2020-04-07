@@ -8,6 +8,19 @@ include_in_header: true
 <br>
 
 ### `Latest`
+
+# **2020.3**
+`Apr 7, 2020`
+
+- 🎈Added Simplified Chinese language support
+- 🎈Added Russian language support
+
+# **2020.2**
+`Mar 7, 2020`
+
+- 🐛Fixed wrong item thumbnail
+- 🐛Fixed occasional wrong state for clipboard button
+
 # **2020.1**
 `Feb 15, 2020`
 

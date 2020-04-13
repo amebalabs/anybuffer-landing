@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.4**
+`Apr 13, 2020`
+
+- 🎈Revamped Search. New Search allows you quickly find items by kind and name. Now you can use contextual menu in search results. Pull down or use the shortcut to invoke Search.
+- 🎈Pointer support on iPadOS. First class support of the newest iPadOS feature.
+- ⚙️ Improved Share Extension. Clean design, improved data handling.
+- ⚙️ Optional Tip Jar. Toss a coin to your app developer! 
+- 🐛Fixed: Shared iOS screenshot doesn't appear in Anybuffer
 
 # **2020.3**
 `Apr 7, 2020`

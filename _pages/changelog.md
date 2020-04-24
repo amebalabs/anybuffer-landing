@@ -8,6 +8,31 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.5**
+`Apr 24, 2020`
+
+- 🎈Wide Sidebar. See shelves names in a wider sidebar on iPad, enable in Settings -> Nitpicky Details.
+- 🎈Custom Keyboard. Access Anybuffer items where you need it: Messages, Twitter, Safari, anywhere.
+- 🎈New Gestures. Swipe left or right with one finger on the screen or with two fingers on the trackpad to switch between shelves. Swipe from the left edge to reveal sidebar.
+- 🎈Search Improvements. Long press on the search icon to access search presets.
+- ⚙️ Added context menu to Add Shelf button
+- ⚙️ Replaced smart shelf indicator in the sidebar
+- ⚙️ Added FAQ link to settings
+- ⚙️ Added shelves icons and item kind icons in Smart Shelf view
+- ⚙️ Reduced memory consumption
+- ⚙️ Moved custom icon selection to theme screen
+- ⚙️ Changed sidebar toggle button image
+- ⚙️ Changed search image icon
+- ⚙️ iPad pointer will snap to buttons on the item details screen
+- ⚙️ More consistent items size between different window sizes and devices 
+- 🐛 A couple of nasty crashes
+- 🐛 Shelves order in Smart Shelf view
+- 🐛 Sharing from Youtube app to Anybuffer
+- 🐛 Pull down to search show search on all active windows on iPad
+- 🐛 Quicklook from search results dismisses search view
+- 🐛 Auto-add from clipboard can add duplicate items in some cases
+- 🐛 Typos, caused by app localization
+
 # **2020.4**
 `Apr 13, 2020`
 

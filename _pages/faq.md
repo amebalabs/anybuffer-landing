@@ -12,16 +12,16 @@ include_in_header: true
 **A:** There are quite a few ways to add things to Anybuffer, covering the wide variety of use cases:
 
 * Main app
- * Paste from clipboard
- * Press the Paste button
- * Keyboard shortcut CMD+V
- * Automatically
- * From Add Menu
- * Add from Photos
- * Add from Files
- * Scan Documents
- * Create a Sketch
- * iPad only: Drag&Drop from other apps
+  * Paste from clipboard
+    * Press the Paste button
+    * Keyboard shortcut CMD+V
+    * Automatically (enable in settings)
+  * From Add Menu
+    * Add from Photos
+    * Add from Files
+    * Scan Documents
+    * Create a Sketch
+  * iPad only: Drag&Drop from other apps
 * Share Extension
 * Today Widget
 * Shortcuts app

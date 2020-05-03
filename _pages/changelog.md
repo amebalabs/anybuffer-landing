@@ -8,6 +8,22 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.6**
+`May 3, 2020`
+
+- 🎈Today Widget. Preview clipboard contents, add it to Anybuffer in one tap.
+- 🎈Better Text Search. Text items content and URLs are searchable now. Before this version only item name was considered.
+- 🎈Search only in selected shelves, available trough shelf's contextual menu or using operator in:<shelf name>.
+- 🎈Create Smart Shelf from Search. Press plus in accessory view, or use CMD+N keyboard shortcut.
+- 🎈Spotlight. Search for Anybuffer items from iOS Spotlight.
+- ⚙️ Keyboard shortcuts to cycle through shelves: CTRL+TAB and CTRL+SHIFT+TAB. Old CMD+] and CMD+[ will continue to work.
+- ⚙️ Improved layout for iPad 9.7, and Slide Over in vertical orientation.
+- ⚙️ Deleting Smart shelf should not delete it contents. 
+- ⚙️ Items in Trash should not appear in search results.
+- ⚙️ New item kind icons in Filter view.
+- 🐛 Setting custom name for an item through share sheet may corrupt the item.
+- 🐛 Narrow sidebar shows and clips shelf name in some cases.
+
 # **2020.5**
 `Apr 24, 2020`
 

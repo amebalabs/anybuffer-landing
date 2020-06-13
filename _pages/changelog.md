@@ -8,6 +8,13 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.7**
+`May 11, 2020`
+
+- ⚙️ Improved Today Widget clipboard preview
+- ⚙️ Improved text indexing and search performance
+- 🐛 Fixed: Filter button clips on iPhone SE in some cases
+
 # **2020.6**
 `May 3, 2020`
 

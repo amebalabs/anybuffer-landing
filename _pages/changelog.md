@@ -8,6 +8,39 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.8**
+`June 14, 2020`
+ 
+- 🎈Shelf icons can be colored, tint color available on shelf create/edit view. Shelf icon tint color can be set from an external app, like Pastel
+- 🎈External PNG image can be used as a shelf icon. In shelf create/edit view use folder icon to open Files or just drop an image on the view
+- 🎈Icon and name for Inbox and trash can be edited
+- 🎈Drag and drop to reorder shelves
+- 🎈Items organized according to its Kind and showed categorically, when sort by “Kind” is selected
+- 🎈Select All from shelf’s contextual menu
+- 🎈Select All keyboard shortcut CMD+A
+- 🎈Multi-select with pointer - click and drag around to select items
+- 🎈CMD+Pointer click to start multi-select 
+- 🎈Shift+Pointer click to multi-select range of items
+- 🎈6 colors app icon
+- 🎈Filter by “Date Added” in search. Long press on search icon or type in key tokens( last:hour, last:day, last:week and last:month)
+- 🎈One-Tap on Item to Copy. Tap on an item in Anybuffer copies it to Clipboard instead of opening it. 
+- 🎈Open Links in Safari. Tap on a link opens it in Safari, instead of the in-app browser.
+- 🎈"Open in Safari" contextual menu option
+- ⚙️ Reworked dark theme
+- ⚙️ Search token for a shelf includes shelf icon
+- ⚙️ Removed headers in settings
+- ⚙️ Settings layout
+- ⚙️ Item counts in filter view fit more than 2 digits
+- ⚙️ Added additional padding for sidebar buttons for devices without FaceID
+- ⚙️ Keyboard shortcuts now correctly handle multi-selection (i.e. select multiple items and press CMD+C)
+- ⚙️ “Action on Tap” setting changed from toggle to explicit selector between “Preview” and “Copy”
+- ⚙️ Apple's universal links (Books, App Store, TestFlight, Music) forced to open in Anybuffer 
+- ⚙️ Smoother animation for Search
+- ⚙️  Better fallback for URL thumbnails for websites without proper metadata
+- 🐛 Search details label clips on shelf icon in some cases
+- 🐛 Auto-paste from clipboard can add duplicate items in rare cases
+- 🐛 Keyboard may not show up in Anybuffer share extension on iPhone
+
 # **2020.7**
 `May 11, 2020`
 

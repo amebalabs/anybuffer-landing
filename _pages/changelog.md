@@ -8,6 +8,30 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.10**
+`September 19, 2020`
+
+- 🎈iOS 14 look and feel, including updated sidebar and dropdown menus
+- 🎈Items can be marked as “Favorite” for later use in search and Smart Shelves
+- 🎈Custom app icons, Pride icon
+- 🎈Set custom font for text items thumbnails
+- 🎈Opt-In one tap Share extension
+- 🎈Open Shelf Widget. Opens Anybuffer on selected shelf.
+- 🎈Recent Items Widget.  Opens Anybuffer and highlights selected item.
+- 🎈Quick Actions. Opens Anybuffer with selected action.
+- 🎈Experimental Files app integration
+- ⚙️ Improved scroll performance in shelves with many(>50) items 
+- 🐛 When “Auto-add from Clipboard” enabled Anybuffer will read the clipboard while alive in background. New behavior - Anybuffer reads clipboard only when on screen.
+- 🐛 Smart shelf settings screen follws app’s accent color
+
+# **2020.9**
+`July 9, 2020`
+
+- 🎈Smart shelf can filter by multiple text terms, i.e. show items with text “AAA” or text “BBB”. Terms should be separated by comma - AAA,BBB
+- 🎈Full URL preview in item’s details
+- 🎈Add file to Shelf shortcut
+- 🎈App icon clipping
+
 # **2020.8**
 `June 14, 2020`
  

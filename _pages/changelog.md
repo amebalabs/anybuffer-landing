@@ -8,6 +8,18 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.11**
+`September 26, 2020`
+- 🎈Improved GIF Support, GIF is available as a separate type you can use in Search and Smart Shelves.
+- 🎈 If “Auto Add from Clipboard” is enabled and Anybuffer opened on a Smart Shelf the item will be pasted to the Inbox
+- 🎈Compressed URLs appear as text files
+- 🐛 Keyboard showing preview only for text items. Don’t forget to “Allow Full Access” for Anybuffer’ keyboard.
+- 🐛 Paste from Widget doesn’t work in some cases
+- 🐛 Compressing all items in a shelf may create an empty archive
+- 🐛 Shelves stay collapsed on iPhone and in compact mode on iPad
+- 🐛 Smart Shelf can be created from Search without Anybuffer Pro
+- 🐛 Seamingly random crash when opening Anybuffer after adding items with Share Sheet
+
 # **2020.10**
 `September 19, 2020`
 
@@ -20,7 +32,7 @@ include_in_header: true
 - 🎈Recent Items Widget.  Opens Anybuffer and highlights selected item.
 - 🎈Quick Actions. Opens Anybuffer with selected action.
 - 🎈Experimental Files app integration
-- ⚙️ Improved scroll performance in shelves with many(>50) items 
+- 🎈 Improved scroll performance in shelves with many(>50) items 
 - 🐛 When “Auto-add from Clipboard” enabled Anybuffer will read the clipboard while alive in background. New behavior - Anybuffer reads clipboard only when on screen.
 - 🐛 Smart shelf settings screen follws app’s accent color
 

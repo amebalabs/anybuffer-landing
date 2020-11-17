@@ -8,10 +8,28 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **2020.11**
+`November 16, 2020`
+# **2020.15**
+
+🥳🎉🎈**Anybuffer for macOS release**🎈🎉🥳
+
+- 🎈Info pane now can be pinned to the right side on iPadOS, which is handy when combined with keyboard navigation.
+- 🎈Compact layout for Anybuffer keyboard
+- 🎈Choose shelves to show in Anybuffer keyboard
+- 🎈New parameters in “Get Items Info” Shortcut: Fetch limit and item Kind filter.
+- 🎈Rich menus support for Shortcuts. Anybuffer items will appear in Shortcuts dialogs with image, title and subtitle.
+- 🎈 URL Scheme. Refer to https://anybuffer.ameba.co/faq/ for more info.
+- ⚙️ Search and Smart Shelf filter for Kind:Video now includes more video formats.
+- ⚙️ Keyboard arrows navigation on iPadOS
+- 🐛 Low-quality Inbox and Trash icons. Existing Anybuffer users should update the icon manually from Edit menu.
+- 🐛 The sorting state would not change or save.
+- 🐛 A couple of crashes in the app's internals
+- 🐛 Scanning from Widget improvements
+
+# **2020.11-13**
 `September 26, 2020`
 - 🎈Improved GIF Support, GIF is available as a separate type you can use in Search and Smart Shelves.
-- 🎈 If “Auto Add from Clipboard” is enabled and Anybuffer opened on a Smart Shelf the item will be pasted to the Inbox
+- 🎈If “Auto Add from Clipboard” is enabled and Anybuffer opened on a Smart Shelf the item will be pasted to the Inbox
 - 🎈Compressed URLs appear as text files
 - 🐛 Keyboard showing preview only for text items. Don’t forget to “Allow Full Access” for Anybuffer’ keyboard.
 - 🐛 Paste from Widget doesn’t work in some cases

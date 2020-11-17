@@ -93,3 +93,13 @@ include_in_header: true
 
 ### Q: Why items in Trash are syncing?
 **A:** Why not? :) Maybe the item was deleted by mistake and you want to restore it from another device. Delete the item from trash to remove it completely.
+
+
+## **URL Scheme**
+
+* **Invoke Search** anybuffer://search?query=[hour,day,week,image,gif,pdf,text,archive,url,audio,video]
+* **Create Shelf** anybuffer://create?[smart=true]
+* **Launch Scanner** anybuffer://scan
+* **Launch Sketch** anybuffer://sketch
+* **Add File** anybuffer://addfile
+* **Add Photo** anybuffer://addphoto

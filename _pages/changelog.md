@@ -8,8 +8,32 @@ include_in_header: true
 <br>
 
 ### `Latest`
-`November 16, 2020`
+# **2021.1**
+`April 10, 2021`
+
+- 🎈Tags - a new way to organize things in Anybuffer, available for Pro users.
+- 🎈Tagging in Import Actions
+- 🎈Face ID - Secure access to Anybuffer.
+- 🎈Set Default Shelf to open on Anybuffer launch
+- 🎈Opt-In to Reader Mode for Links opened in Anybuffer
+- 🎈New Shelf Icons
+- 🎈Show Item Count for each Shelf in the sidebar
+- 🎈Edit URL for links saved in Anybuffer
+- 🎈Copy as Text action for text items saved in Anybuffer
+- 🎈Enter Selection Mode from Shelf context menu
+- 🎈Copy Shelf URL from Shelf context menu
+- ⚙️ Significant VoiceOver Improvements
+- ⚙️ Stable sorting by name, size, and kind
+- ⚙️ Anybuffer logo for empty shelf is now dimmed
+- ⚙️ Family Sharing for in-app purchases
+- 🐛 Items added through the share sheet may not appear in the search
+- 🐛 Icons in Smart Shelf filters are correctly tinted
+
+Besides new features and small bug fixes in this release of Anybuffer we've fixed a syncing bug that affected a small number of users. These users shall see items that were not syncing before in the Inbox. There was no data loss, but a UI problem - Anybuffer wasn't showing some of the items synced from another device.
+
+
 # **2020.15**
+`November 16, 2020`
 
 🥳🎉🎈**Anybuffer for macOS release**🎈🎉🥳
 
